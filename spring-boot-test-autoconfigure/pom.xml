@@ -8,8 +8,8 @@
 		<relativePath>../spring-boot-parent</relativePath>
 	</parent>
 	<artifactId>spring-boot-test-autoconfigure</artifactId>
-	<name>Spring Boot Test Auto-Configure</name>
-	<description>Spring Boot Test Auto-Configure</description>
+	<name>Spring Boot Test Auto-Configure Forked</name>
+	<description>Spring Boot Test Auto-Configure Forked</description>
 	<url>http://projects.spring.io/spring-boot/</url>
 	<organization>
 		<name>Pivotal Software, Inc.</name>
